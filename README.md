@@ -1,3 +1,5 @@
+Password : QEST24
+
 ## SimpleIcveMoocHelper
 
 > 务必保证浏览器为各内核最新版，所用API均为激进调用，兼容？这脚本纯粹练手，啥新学啥用啥，这辈子都不可能考虑兼容的
